@@ -8,28 +8,28 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
+        <span>Javascript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
        <td width="25%" align="center">
-        <span>Lua</span><br><br><br>
+        <span>Lua</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/lua.svg">
       </td>
        <td width="25%" align="center">
-         <span>C#</span><br><br><br>
+         <span>C#</span><br><br>
          <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
     </tr>
         <tr valign="top">
       <td width="25%" align="center">
-        <span>Visual Studio</span><br><br><br>
+        <span>Visual Studio</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
+        <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Visual Studio Code</span><br><br><br>
+        <span>Visual Studio Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>

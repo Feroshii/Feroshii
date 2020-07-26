@@ -36,6 +36,7 @@
   </tbody>
 </table>
 
+## Stats
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperionjs&show_icons=true&hide_border=true)

@@ -1,7 +1,6 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 # Welcome
 
-**Hey!** I'm Evan, or Hyperion. I'm a self-taught Node.js and Backend developer. I've made multiple Discord bots using the [@discordjs](https://github.com/discordjs/discord.js/) library, for music, moderation, and pure automation. I'm also a graphics designer and create my own logos and banners.
+**Hey!** I'm Evan, or Hyperion. I'm a self-taught Node.js and Backend developer. I've made multiple Discord bots using the [@discordjs](https://github.com/discordjs/discord.js/) library, for music, moderation, and pure automation. I'm also a graphics designer and create my own logos and banners. <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ## Languages and Tools
 

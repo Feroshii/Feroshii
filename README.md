@@ -1,1 +1,1 @@
-:mega: Hey! I'm Evan, or Hyperion. I'm a self-taught Node.js and Backend developer. I've made multiple Discord bots using the [@discordjs](https://github.com/discordjs/discord.js/) library, for music, moderation, and pure automation. :mega:
+[![Click to get my Discord](https://i.imgur.com/jvILe4s.png)](discord://discord.com/users/362773214297849867)

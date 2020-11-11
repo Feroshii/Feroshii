@@ -1,1 +1,1 @@
-[![Click to get my Discord](https://i.imgur.com/jvILe4s.png)](discord://discord.com/users/362773214297849867)
+[![Header](https://i.imgur.com/jvILe4s.png "Header")](https://cdn.discordapp.com/attachments/759598259516735519/775923077816385556/Goteem.mp4)

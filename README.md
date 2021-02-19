@@ -1,1 +1,1 @@
-[![Header](https://i.imgur.com/xK9AmQ9.jpg "Header")](https://youtube.com/watch?v=oEo-euy0U6w)
+[![Header](https://sargon.is-a-simp-for.me/550457d110dcf915e.jpg "Header")](https://youtube.com/watch?v=oEo-euy0U6w)
